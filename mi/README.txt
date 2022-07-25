@@ -1,0 +1,2 @@
+Cambiare l'estensione dei file device.txt, gateway.txt, server.txt e ThreadedProgram.txt da .txt a .py
+Per eseguire correttamente i programmi utilizzare tre terminali python dove avviare rispettivamente i programmi device.py, gateway.py e server.py
